@@ -1,0 +1,28 @@
+{
+  "feeds": [
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
+    {
+      "name": "NVIDIA Blog - AI",
+      "url": "https://blogs.nvidia.com/blog/category/ai/feed/"
+    },
+    {
+      "name": "MIT News - Robotics",
+      "url": "https://news.mit.edu/rss/topic/robotics"
+    },
+    {
+      "name": "The Robot Report",
+      "url": "https://www.therobotreport.com/feed/"
+    },
+    {
+      "name": "IEEE Spectrum - Robotics",
+      "url": "https://spectrum.ieee.org/feeds/topic/robotics/fulltext"
+    }
+  ]
+}
